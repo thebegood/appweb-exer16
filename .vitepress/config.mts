@@ -16,8 +16,8 @@ export default defineConfig({
       {
         text: "Examples",
         items: [
-          { text: "Mathieu Lemoyne", link: "/Mathieu-Lemoyne" },
-          { text: "Noa Pelletier", link: "/Noa-Pelletier" },
+          { text: "Mathieu Lemoyne", link: "/mathieu-lemoyne" },
+          { text: "Noa Pelletier", link: "/noa-pelletier" },
         ],
       },
     ],
