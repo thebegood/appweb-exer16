@@ -12,7 +12,7 @@ hero:
       link: /noa-pelletier
     - theme: alt
       text: Mathieu Lemoyne
-      link: /Mathieu-lemoyne
+      link: /mathieu-lemoyne
 
 features:
   - title: Non Implémenté A
