@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
+import { defineConfig } from "vitepress"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: "Examples",
         items: [
-          { text: "Mathieu Lemoyne", link: "/Mathieu-lemoyne" },
+          { text: "Mathieu Lemoyne", link: "/Mathieu-Lemoyne" },
           { text: "Noa Pelletier", link: "/Noa-Pelletier" },
         ],
       },
@@ -26,4 +26,4 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
   },
-});
+})
